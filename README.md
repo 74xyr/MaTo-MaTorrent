@@ -1,6 +1,7 @@
 # MaTo - Torrent Client
 
-> **Created by carelto** — a small, clean, terminal-based torrent client for Windows using `aria2c`.
+> **Created by esc's Services** — a small, clean, terminal-based torrent client for Windows using `aria2c`.
+> https://discord.gg/uJVGveeZEd
 
 ## Features
 
