@@ -6,12 +6,10 @@
 
 - CMD interface with a **Main Menu** you can drive with arrow keys **and** your mouse
 - **Install Torrent** – paste a magnet link, pick a folder, download starts
-- **Catalogue** – browse a paginated list of torrents loaded from your own GitHub-hosted `sources.json`
+- **Catalogue** – browse a paginated list of torrents getting update daily/weekly
 - **Download list** – live progress, speed, peers; pause/resume/delete
 - **History view** – finished downloads with size, date and folder (`T` to toggle)
 - **Crash-proof** – state is mirrored to `history.json`; **resume** interrupted downloads on next start
-- **Flicker-free** – every screen is rendered as one buffered frame (no `cls`, no black frames)
-- Finished torrents open their folder in Explorer automatically
 - Version footer (`MaTo 0.1.1 (BETA)`) bottom-right, no extra dependencies (standard library only)
 
 ## Requirements
